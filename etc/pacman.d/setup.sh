@@ -6,3 +6,4 @@ cp axyl-mirrorlist /etc/pacman.d/
 cp chaotic-mirrorlist /etc/pacman.d/
 cp endeavouros-mirrorlist /etc/pacman.d/
 cp reborn-mirrorlist /etc/pacman.d/
+cp ../pacman.conf /etc/
